@@ -54,6 +54,7 @@ Ce référentiel décrit le déroulement du cours et la façon d'utiliser les no
 
 ## Ressources
 - Slides du cours : https://docs.google.com/presentation/d/1JHaxkl4WDKFp18A76PIsu6Cs8ULd0mE0WYL7eu0aZHY/edit?usp=sharing
+- Introduction à python: https://python.sdv.u-paris.fr/cours-python.pdf
 - Outils principaux : Python, Pandas, PyTorch, TorchXRayVision, nnU-Net, MedSAM (HuggingFace)
 - Support : séances de questions/réponses et tutoriels complémentaires selon les besoins.
 
