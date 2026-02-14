@@ -2,6 +2,8 @@
 
 Ce référentiel décrit le déroulement du cours et la façon d'utiliser les notebooks. Il sert de guide pratique pour suivre la progression, accéder aux supports et comprendre les attendus.
 
+**Version 2024:** Curriculum restructuré et optimisé en 10 notebooks pour une approche plus cohérente et professionnelle, éliminant les redondances tout en couvrant l'intégralité du programme.
+
 ## Informations institutionnelles
 - Semestre : 1
 - UFR : École Doctorale des Sciences de la Santé
@@ -15,17 +17,14 @@ Ce référentiel décrit le déroulement du cours et la façon d'utiliser les no
 ## Parcours des notebooks
 - 01_Introduction_Python.ipynb : bases Python
 - 02_Analyse_Donnees_BioMed.ipynb : analyse exploratoire biomédicale, visualisation, sur/sous-apprentissage
-- 03_Texte_Medical_IA.ipynb : NLP médical, classification de comptes-rendus
-- 04_PyTorch_Usage_Pratique.ipynb : premiers réseaux de neurones avec PyTorch
-- 05_TorchXRayVision_Introduction.ipynb : prise en main de TorchXRayVision
-- 06_TorchXRayVision_Classification.ipynb : classification de pathologies thoraciques
-- 07_TorchXRayVision_Segmentation.ipynb : segmentation d'images médicales
-- 08_TorchXRayVision_Pathologie.ipynb : détection ciblée de pathologies
-- 09_TorchXRayVision_Dataset_Personnalise.ipynb : création et adaptation de jeux de données
-- 10_nnUNet_Segmentation_Biomedicale.ipynb : segmentation automatique avec nnU-Net
-- 11_MedSAM_HuggingFace.ipynb : modèles MedSAM via HuggingFace
-- 12_MedSAM_Segmentation_Interactive.ipynb : segmentation interactive assistée
-- 13_nnUNet_Workflows_Cliniques.ipynb : intégration dans les workflows cliniques
+- 03_PyTorch_Fundamentals_Medical.ipynb : PyTorch pour applications médicales, réseaux de neurones
+- 04_Classification_Texte_Medical_Francais.ipynb : NLP médical français, classification multi-labels, prompting
+- 05_TorchXRayVision_Complete.ipynb : analyse complète de radiographies thoraciques
+- 06_Segmentation_Medical_Images.ipynb : segmentation d'images médicales (méthodes manuelles et automatiques)
+- 07_nnUNet_Clinical_Workflows.ipynb : segmentation biomédicale et intégration clinique avec nnU-Net
+- 08_Custom_Dataset_Integration.ipynb : intégration et analyse de datasets personnalisés
+- 09_AI_Model_Selection_Framework.ipynb : cadre de sélection et évaluation des modèles d'IA médicale
+- 10_Clinical_Deployment_Ethics.ipynb : éthique et déploiement responsable de l'IA en médecine
 
 ## Attendus pédagogiques
 À l'issue du parcours, les apprenants doivent pouvoir :
@@ -35,7 +34,8 @@ Ce référentiel décrit le déroulement du cours et la façon d'utiliser les no
 - Élaborer et présenter un mini-projet de recherche intégrant l'IA.
 
 ## Organisation et charge de travail
-- Progression conseillée : 2 notebooks par semaine (3–4 h chacun) pour un total de 40–50 h.
+- Progression conseillée : 2 notebooks par semaine (4–5 h chacun) pour un total de 40–50 h sur 5 semaines.
+- Structure optimisée : 10 notebooks couvrant l'ensemble du programme sans redondance.
 - Prérequis : aucune expérience en programmation ; notions d'anatomie/physiologie.
 - Matériel : ordinateur avec connexion internet ; exécution recommandée sur Google Colab.
 
@@ -46,10 +46,13 @@ Ce référentiel décrit le déroulement du cours et la façon d'utiliser les no
 
 ## Thèmes clés de l'UE
 - Introduction à l'informatique/bio-informatique et à l'IA
-- Outils informatiques et manipulation de données
-- Concepts et pratiques de l'IA (NLP, vision)
-- Applications en médecine et sciences biomédicales
-- Éthique, biais et responsabilité en IA médicale
+- Outils informatiques et manipulation de données biomédicales
+- PyTorch et apprentissage profond pour applications médicales
+- Traitement automatique du langage médical français (NLP)
+- Analyse d'images médicales (classification et segmentation)
+- Intégration de datasets personnalisés et validation clinique
+- Cadres de sélection et évaluation des modèles d'IA médicale
+- Éthique, biais et déploiement responsable de l'IA en médecine
 - Présentation de projets de recherche intégrant l'IA
 
 ## Ressources
