@@ -2,13 +2,13 @@
 
 ## Devoir 1: Prédiction du Diabète
 
-**Fichier:** `homework/Homework_Diabetes_Prediction.ipynb`
+**Fichier:** `devoirs/Homework_Diabetes_Prediction.ipynb`
 
 **Moment:** Après les cours 1-4
 
 **Durée:** 3-4 heures
 
-**Points:** 100
+**Points:** 20
 
 **Statut:** Complété
 
@@ -16,21 +16,21 @@
 
 ## Devoir 2: Analyse de Radiographies Thoraciques
 
-**Fichier:** `homework/Homework_Chest_XRay_Analysis.ipynb`
+**Fichier:** `devoirs/Homework_Chest_XRay_Analysis.ipynb`
 
 **Moment:** Après le cours 5
 
 **Durée:** 4-5 heures
 
-**Points:** 100
+**Points:** 20
 
 ### Structure (5 parties)
 
-1. **Setup (10 pts)** - Chargement du modèle TorchXRayVision
-2. **Analyse (30 pts)** - Analyse de 3 radiographies
-3. **Évaluation (25 pts)** - Calcul de métriques
-4. **Visualisation (20 pts)** - Dashboard + rapport clinique
-5. **Réflexion (15 pts)** - Questions éthiques
+1. **Setup (2 pts)** - Chargement du modèle TorchXRayVision
+2. **Analyse (6 pts)** - Analyse de 3 radiographies
+3. **Évaluation (5 pts)** - Calcul de métriques
+4. **Visualisation + Rapport (4 pts)** - Dashboard + rapport clinique
+5. **Réflexion (3 pts)** - Questions éthiques
 
 ### Compétences Évaluées
 
@@ -89,12 +89,12 @@ NOM_Prenom_Dashboard.png
 
 | Partie | Points |
 |--------|--------|
-| Setup | 10 |
-| Analyse | 30 |
-| Évaluation | 25 |
-| Visualisation + Rapport | 20 |
-| Réflexion critique | 15 |
-| **Total** | **100** |
+| Setup | 2 |
+| Analyse | 6 |
+| Évaluation | 5 |
+| Visualisation + Rapport | 4 |
+| Réflexion critique | 3 |
+| **Total** | **20** |
 
 ---
 

@@ -34,10 +34,10 @@ Ce cours vous apprend à utiliser l'intelligence artificielle dans un contexte m
 
 ## Devoirs
 
-Les devoirs sont dans le dossier `homework/`.
+Les devoirs sont dans le dossier `devoirs/`.
 
-- **Devoir 1:** Prédiction du Diabète (complété)
-- **Devoir 2:** Analyse de Radiographies (à faire après le cours 5)
+- **Devoir 1:** Prédiction du Diabète (/20 points)
+- **Devoir 2:** Analyse de Radiographies (/20 points)
 
 ---
 
@@ -60,7 +60,7 @@ Les devoirs sont dans le dossier `homework/`.
 
 ### 4. Obtenir de l'Aide
 
-Consultez le fichier `GUIDE_DEMARRAGE_RAPIDE.md` pour plus de détails.
+Consultez le fichier `AIDE_COLAB.md` pour résoudre les problèmes courants.
 
 ---
 
@@ -80,15 +80,14 @@ Consultez le fichier `GUIDE_DEMARRAGE_RAPIDE.md` pour plus de détails.
 
 - **Syllabus:** https://docs.google.com/presentation/d/1JHaxkl4WDKFp18A76PIsu6Cs8ULd0mE0WYL7eu0aZHY/edit?usp=sharing
 - **Python:** https://python.sdv.u-paris.fr/cours-python.pdf
-- **Google Colab:** https://colab.research.google.com
-- **Guide de démarrage:** `GUIDE_DEMARRAGE_RAPIDE.md`
+- **Aide Google Colab:** `AIDE_COLAB.md`
 - **Guide des devoirs:** `HOMEWORK_GUIDE.md`
 
 ---
 
 ## Support Technique
 
-- Consultez d'abord le `GUIDE_DEMARRAGE_RAPIDE.md`
+- Consultez d'abord `AIDE_COLAB.md` pour les problèmes courants
 - Utilisez le forum du cours pour poser vos questions
 - Heures de permanence: [voir syllabus]
 
@@ -99,11 +98,11 @@ Consultez le fichier `GUIDE_DEMARRAGE_RAPIDE.md` pour plus de détails.
 ```
 cours-ia-med/
 ├── 01-08_*.ipynb       # Cours (notebooks Jupyter)
-├── homework/           # Devoirs
+├── devoirs/            # Devoirs
 │   └── solutions/      # Solutions (accès enseignant uniquement)
 ├── README.md           # Ce fichier
-├── GUIDE_DEMARRAGE_RAPIDE.md
-└── HOMEWORK_GUIDE.md
+├── AIDE_COLAB.md       # Aide Google Colab
+└── HOMEWORK_GUIDE.md   # Guide des devoirs
 ```
 
 ---
