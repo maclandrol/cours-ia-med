@@ -28,7 +28,6 @@ Ce cours vous apprend à utiliser l'intelligence artificielle dans un contexte m
 5. **Analyse de Radiographies Thoraciques** - Détection de pathologies avec TorchXRayVision
 6. **Segmentation d'Images Médicales** - Segmentation interactive avec MedSAM
 7. **Éthique de l'IA en Médecine** - Biais, responsabilité, déploiement responsable
-8. **Démonstration nnU-Net** - Segmentation automatique d'images médicales
 
 ---
 
@@ -97,7 +96,7 @@ Consultez le fichier `AIDE_COLAB.md` pour résoudre les problèmes courants.
 
 ```
 cours-ia-med/
-├── 01-08_*.ipynb       # Cours (notebooks Jupyter)
+├── 01-07_*.ipynb       # Cours (notebooks Jupyter)
 ├── devoirs/            # Devoirs
 │   └── solutions/      # Solutions (accès enseignant uniquement)
 ├── README.md           # Ce fichier
