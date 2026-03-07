@@ -1,4 +1,4 @@
-# Informatique et Intelligence Artificielle — IIA2106
+# Informatique et Intelligence Artificielle
 
 **Enseignant:** Emmanuel Noutahi, PhD
 
