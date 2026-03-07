@@ -19,6 +19,7 @@ Ce cours vous apprend à utiliser l'intelligence artificielle dans un contexte m
 ## Cours
 
 ### Déjà Complétés
+0. **Introduction à l'IA et application au domaine médical** - Cours théorique
 1. **Introduction à Python** - Bases du langage, structures de données
 2. **Analyse de Données Biomédicales** - Pandas, visualisation, ML
 3. **PyTorch Fundamentals** - Réseaux de neurones, applications médicales
@@ -80,7 +81,7 @@ Consultez le fichier `AIDE_COLAB.md` pour résoudre les problèmes courants.
 - **Syllabus:** https://docs.google.com/presentation/d/1JHaxkl4WDKFp18A76PIsu6Cs8ULd0mE0WYL7eu0aZHY/edit?usp=sharing
 - **Python:** https://python.sdv.u-paris.fr/cours-python.pdf
 - **Aide Google Colab:** `AIDE_COLAB.md`
-- **Guide des devoirs:** `HOMEWORK_GUIDE.md`
+- **Guide des devoirs:** `GUIDE_DEVOIR.md`
 
 ---
 
@@ -101,7 +102,7 @@ cours-ia-med/
 │   └── solutions/      # Solutions (accès enseignant uniquement)
 ├── README.md           # Ce fichier
 ├── AIDE_COLAB.md       # Aide Google Colab
-└── HOMEWORK_GUIDE.md   # Guide des devoirs
+└── GUIDE_DEVOIR.md   # Guide des devoirs
 ```
 
 ---
