@@ -78,7 +78,7 @@ Consultez le fichier `AIDE_COLAB.md` pour résoudre les problèmes courants.
 
 ## Ressources
 
-- **Syllabus:** https://docs.google.com/presentation/d/1JHaxkl4WDKFp18A76PIsu6Cs8ULd0mE0WYL7eu0aZHY/edit?usp=sharing
+- **Introduction IA:** https://docs.google.com/presentation/d/1JHaxkl4WDKFp18A76PIsu6Cs8ULd0mE0WYL7eu0aZHY/edit?usp=sharing
 - **Python:** https://python.sdv.u-paris.fr/cours-python.pdf
 - **Aide Google Colab:** `AIDE_COLAB.md`
 - **Guide des devoirs:** `GUIDE_DEVOIR.md`
@@ -97,9 +97,9 @@ Consultez le fichier `AIDE_COLAB.md` pour résoudre les problèmes courants.
 
 ```
 cours-ia-med/
-├── 01-07_*.ipynb       # Cours (notebooks Jupyter)
+├── 01-07_*.ipynb       # Cours pratiques (notebooks Jupyter)
 ├── devoirs/            # Devoirs
-│   └── solutions/      # Solutions (accès enseignant uniquement)
+│   └── solutions/      # Solutions
 ├── README.md           # Ce fichier
 ├── AIDE_COLAB.md       # Aide Google Colab
 └── GUIDE_DEVOIR.md   # Guide des devoirs
